@@ -7,6 +7,7 @@ def speak_to_grandma(phrase)
   end
   if phrase = "WHAT DID YOU EAT TODAY? "
     return "NO, NOT SINCE 1938!"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
