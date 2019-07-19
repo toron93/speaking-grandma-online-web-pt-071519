@@ -5,6 +5,8 @@ def speak_to_grandma(phrase)
   elsif phrase == "Hi Nana, how are you?" || phrase == "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
   end
+else phrase = "WHAT DID YOU EAT TODAY?"
+    return "NO, NOT SINCE 1938!"
 end
 
 # Whatever you say to grandma, she should respond with
